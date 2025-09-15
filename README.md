@@ -1,5 +1,6 @@
 # 📊 Yelp Reviews Analysis with AWS & Snowflake
 
+
 ## 📌 Project Overview
 
 This project demonstrates how to work with the **Yelp Open Dataset**, upload it to **AWS S3**, transform JSON into structured tables in **Snowflake**, and run queries to extract business insights.
