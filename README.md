@@ -1,6 +1,7 @@
 # 📊 Yelp Reviews Analysis with AWS & Snowflake
 
 
+
 ## 📌 Project Overview
 
 This project demonstrates how to work with the **Yelp Open Dataset**, upload it to **AWS S3**, transform JSON into structured tables in **Snowflake**, and run queries to extract business insights.
@@ -108,15 +109,4 @@ Additionally, a **Python UDF** was created in Snowflake using **TextBlob** to pe
 * Implement advanced NLP models for sentiment (e.g., VADER, HuggingFace Transformers)
 * Automate data pipeline with **Airflow / dbt**
 
----
 
-## 👤 Author
-
-**Anish Kamat**
-
-* 🌐 [Portfolio](https://anishkamat.github.io)
-* 💼 Data Analytics | Business Intelligence | Data Engineering
-
----
-
-Do you want me to also add **sample query outputs with screenshots/graphs** so the README looks more visually impressive on GitHub?
