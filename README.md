@@ -67,16 +67,6 @@ Additionally, a **Python UDF** was created in Snowflake using **TextBlob** to pe
 
 ---
 
-## 📈 Example Insights
-
-* Distribution of businesses across categories
-* Top 10 users reviewing “Restaurants”
-* Month with the highest review activity
-* Top 5 most-reviewed businesses in each city
-* Businesses with the highest proportion of **Positive Sentiment** reviews
-
----
-
 ## 📂 Repository Structure
 
 ```
